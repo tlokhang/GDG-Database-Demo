@@ -11,7 +11,7 @@ A Python project to connect to Supabase and insert user data (name_surname and f
 
 1. **Clone or open this project**
 
-2. **Install dependencies** (already done if using the virtual environment):
+2. **Setup Virtual Environment / Install dependencies**:
    ```bash
    pip install supabase python-dotenv
    ```
