@@ -5,7 +5,6 @@ A Python project to connect to Supabase and insert user data (name_surname and f
 ## Prerequisites
 
 - Python 3.11+
-- A Supabase account and project
 - Supabase URL and anon/service key
 
 ## Setup
